@@ -1,5 +1,5 @@
 # ScoreKeeper
-A rugby match score tracking app for two teams
+A rugby match score tracking app forteams that will be playing at the 2019 Japan Rugby World Cup.
 
 ![Score Keeper app screen shot](sk_screenShots/sk_scrnshot1.png "")
 
