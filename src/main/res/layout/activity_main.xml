@@ -17,8 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:paddingTop="10dp"
-            android:paddingLeft="30dp"
-            android:gravity="left"
+            android:layout_gravity="left"
             android:src="@drawable/ic_mzansi" />
 
         <ImageView
@@ -27,7 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:paddingTop="4dp"
-            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
             android:src="@drawable/ic_rwc" />
 
         <ImageView
@@ -36,8 +35,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:paddingTop="10dp"
-            android:paddingRight="40dp"
-            android:gravity="right"
+            android:layout_gravity="right"
             android:src="@drawable/ic_newzealand"/>
 
     </LinearLayout>
@@ -60,10 +58,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
-                android:gravity="center_horizontal"
-                android:paddingLeft="20dp"
-                android:paddingRight="20dp"
-                android:layout_marginLeft="26dp"
+                android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="6dp"
                 android:text="South Africa"
                 android:background="@color/colorAccent"
@@ -75,9 +70,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-light"
-                android:gravity="center_horizontal"
-                android:layout_marginRight="1dp"
-                android:layout_marginLeft="28dp"
+                android:layout_gravity="center"
                 android:layout_marginBottom="4dp"
                 android:paddingRight="2dp"
                 android:paddingLeft="2dp"
@@ -145,10 +138,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-medium"
-                android:gravity="center_horizontal"
-                android:paddingLeft="20dp"
-                android:paddingRight="20dp"
-                android:layout_marginLeft="42dp"
+                android:layout_gravity="center"
                 android:layout_marginBottom="6dp"
                 android:text="New Zealand"
                 android:background="@color/colorAccent"
@@ -160,9 +150,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-light"
-                android:gravity="center"
-                android:layout_marginRight="1dp"
-                android:layout_marginLeft="28dp"
+                android:layout_gravity="center"
                 android:layout_marginBottom="4dp"
                 android:paddingRight="2dp"
                 android:paddingLeft="2dp"
